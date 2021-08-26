@@ -1,6 +1,6 @@
 # Rest Api Project
 A simple project using python and rest API (For Learn Purposes)
-###How To Use: 
+# How To Use: 
 clone the project to your machine then make sure that you installed python,
 then create the Env Variables
 `$env:FLASK_APP = "api/appApi.py"` if you are on Windows Or
